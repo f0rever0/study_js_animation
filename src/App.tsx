@@ -1,15 +1,11 @@
-import styled from "styled-components";
+import Scroll from "./components/scroll";
 
 function App() {
   return (
     <>
-      <Title>Hello</Title>
+      <Scroll />
     </>
   );
 }
 
 export default App;
-
-const Title = styled.h1`
-  color: red;
-`;
