@@ -1,5 +1,5 @@
 // Photos from https://citizenofnowhe.re/lines-of-the-city
-import "./styles.css";
+import "./css/scroll.css";
 import { useState } from "react";
 import { motion, useScroll, useMotionValueEvent } from "framer-motion";
 import { LoremIpsum } from "../assets/LoremIpsum";
